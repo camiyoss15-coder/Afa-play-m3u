@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Transmisión 1" group-title="AFA Play",Transmisión 1
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/b9c85f01-00ee-4ff3-9b1d-bfe6e1cf095f/2e76dfe1-ce19-4a0b-a6cf-883ac0963072/2/streamPlaylist-live.m3u8
+#EXTINF:-1 tvg-name="Transmisión 2" group-title="AFA Play",Transmisión 2
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/f8146d6d-365c-4057-a9b7-a0968a8f3043/d556226c-d572-4b62-bb1f-cce080a4cbf8/2/streamPlaylist-live.m3u8
+#EXTINF:-1 tvg-name="Transmisión 3" group-title="AFA Play",Transmisión 3
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/e9762539-8eb7-4087-b28e-9d25fc62390b/d491e4f5-2174-4827-b460-f883ac4563fb/2/streamPlaylist-live.m3u8
+#EXTINF:-1 tvg-name="Transmisión 4" group-title="AFA Play",Transmisión 4
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/eb5f2f55-900f-4e03-af0b-90fd4a95342b/e558e9f9-aad5-4d4d-9cb0-51b929b2658c/2/streamPlaylist-live.m3u8
+#EXTINF:-1 tvg-name="Transmisión 5" group-title="AFA Play",Transmisión 5
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/c8c4a587-6433-43b6-9e32-4494a9f6b0ae/a2cff2b5-bea9-4382-8c3b-2abb8b8e9081/2/streamPlaylist-live.m3u8
+#EXTINF:-1 tvg-name="Transmisión 6" group-title="AFA Play",Transmisión 6
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/d0132603-f029-428a-acaa-383f9563eb2d/97908cfb-bce4-47e6-ba76-015b8a42c7e0/2/streamPlaylist-live.m3u8
+#EXTINF:-1 tvg-name="Transmisión 7" group-title="AFA Play",Transmisión 7
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/b9d0b1e6-8386-4ab6-afbd-8d619ebb2170/17f5acec-9c79-4a2a-8318-2f7ae5569441/2/streamPlaylist-live.m3u8
+#EXTINF:-1 tvg-name="Transmisión 8" group-title="AFA Play",Transmisión 8
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/951021bf-4f6e-410b-8f9b-485606b5808e/658d01b4-27d2-4be4-a917-2f3d7931bc5f/2/streamPlaylist-live.m3u8
+#EXTINF:-1 tvg-name="Transmisión 9" group-title="AFA Play",Transmisión 9
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/d1ba6f72-f5a1-4b56-a3de-0432abfff8a4/9afa8440-37ae-4d21-bd24-0ba4d2ada731/2/streamPlaylist-live.m3u8
+#EXTINF:-1 tvg-name="Transmisión 10" group-title="AFA Play",Transmisión 10
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/61ad70c4-a656-47e0-952d-b5836b6d1dc7/8781492b-4f66-4e18-a9e8-9364ccd429da/2/streamPlaylist-live.m3u8
